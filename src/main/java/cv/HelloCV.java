@@ -1,4 +1,4 @@
-// Example from:
+package cv;// Example from:
 //https://opencv-java-tutorials.readthedocs.io/en/latest/02-first-java-application-with-opencv.html
 
 import org.opencv.core.Core;

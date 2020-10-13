@@ -1,4 +1,4 @@
-# HelloCV
+# cv.HelloCV
 
 Working through example from [this tutorial](https://opencv-java-tutorials.readthedocs.io/en/latest/02-first-java-application-with-opencv.html)
 
